@@ -1,0 +1,44 @@
+
+.modal-content{
+  background: url(../images/sedekah.jpg)
+  background-size: cover;
+}
+
+#events-list{
+  padding: 35px;
+}
+
+.fsmall{
+  font-size: 12px;
+}
+
+.footer-copyright{
+  background-color: #ffc107;
+}
+
+.social-media{
+  padding: 10px;
+}
+
+.social-media img{
+  padding: 5px;
+}
+
+.promo-details small{
+  color: #6f42c1
+}
+/*
+.right-color {
+  background-color: blue;
+}*/
+
+.r-image-card{
+width: 100%;
+height: 200px;
+position: relative;
+overflow: hidden;
+}
+
+.right-color hr{
+  margin-left:10px;
+}
